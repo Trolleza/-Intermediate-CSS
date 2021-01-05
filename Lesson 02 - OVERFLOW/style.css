@@ -1,0 +1,38 @@
+body{
+   font-size: 1.2rem;}
+
+#container{
+   color: yellow;
+   background-color: blue;
+   width: 300px;
+   height: 100px;
+   overflow: visible;}
+
+#container1{
+   color: yellow;
+   background-color: blue;
+   width: 300px;
+   height: 100px;
+   overflow: hidden;}
+
+#container2{
+   color: yellow;
+   background-color: blue;
+   width: 300px;
+   height: 100px;
+   overflow: scroll;}
+
+#container3{
+   color: yellow;
+   background-color: blue;
+   width: 300px;
+   height: 100px;
+   overflow: auto;}
+
+#container4{
+   color: yellow;
+   background-color: blue;
+   width: 300px;
+   height: 100px;
+   overflow-y: scroll;}
+
