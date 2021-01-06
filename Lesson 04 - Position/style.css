@@ -1,0 +1,38 @@
+.static{
+   position: static;}
+
+.relative{
+   position: relative;
+   left: -40px;}
+
+.fixed{
+   position: fixed;
+   right: 20px;
+   bottom: 20px;}
+
+.absolute{
+   position: absolute;}
+
+.sticky{
+   position: sticky;
+   top: 0;}
+
+.square{
+   width: 100px;
+   height: 100px;
+   display: inline-block;}
+
+.rectangle{
+   width: 200px;
+   height: 500px;
+   margin-top: 10px;
+   overflow: auto;}
+
+.green{
+   background-color: green;}
+
+.pink{
+   background-color: pink;}
+
+.gold{
+   background-color: gold;}
